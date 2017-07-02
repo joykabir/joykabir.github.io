@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ziaul&#39;s Personal Web and Blog</title>
-    <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on Ziaul&#39;s Personal Web and Blog</description>
+    <title>Categories on &lt;Joykabir on Web&gt;</title>
+    <link>https://joykabir.github.io/categories/</link>
+    <description>Recent content in Categories on &lt;Joykabir on Web&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2017 ZK</copyright>
-    
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 joykabir</copyright>
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Development</title>
-      <link>https://example.com/categories/development/</link>
+      <link>https://joykabir.github.io/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/development/</guid>
+      <guid>https://joykabir.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://example.com/categories/golang/</link>
+      <link>https://joykabir.github.io/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/golang/</guid>
+      <guid>https://joykabir.github.io/categories/golang/</guid>
       <description></description>
     </item>
     

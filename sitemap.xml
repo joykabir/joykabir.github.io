@@ -1,131 +1,413 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://example.com/projects/small-project/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/projects/small-project/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/blog/example-article/</loc>
-    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2015-08-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/projects/projects/</loc>
-    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/blog/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/blog/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/post/getting-started/</loc>
+      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/post/widgets/</loc>
+      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/post/managing-content/</loc>
+      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/post/writing-markdown-latex/</loc>
+      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/blog/example-of-an-article/</loc>
+      <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/publication/person-re-identification/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/home/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/about/</loc>
+      <lastmod>2015-08-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/projects/projects/</loc>
+      <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/license/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/blog/creating-a-new-theme/</loc>
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/projects/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/blog/goisforlovers/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/projects/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/blog/hugoisforlovers/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/publication_types/2/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/blog/</loc>
+      <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/development/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/categories/development/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/go/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/golang/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/categories/golang/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/hugo/</loc>
+      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/license/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/projects/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/projects/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/templates/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://joykabir.github.io/tags/themes/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
