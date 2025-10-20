@@ -4,11 +4,26 @@ layout: "contact"
 url: "/contact"
 ---
 
-Feel free to reach out to me!
+# Get in Touch
 
-**Email:** your-email@example.com
-**Phone:** +1 (234) 567-8900
+I'd love to hear from you! Feel free to reach out through any of the channels below.
 
-You can also find me on:
-- GitHub: https://github.com/joykabir
-- LinkedIn: https://linkedin.com/in/joykabir
+## Email
+
+**Email:** mzkabir@proton.me
+
+## Contact Form
+
+For a quick message, you can also use this form:
+
+[Contact Form](https://formspree.io/f/911AHFOO)
+
+*(Note: Replace `YOUR_FORM_ID` with your actual Formspree form ID)*
+
+## GPG Encryption
+
+If you'd like to send me an encrypted email, I have a public GPG key available here
+
+## ## Quick Contact
+
+[Send me an email](mailto:your-email@example.com?subject=Hello%20Joy)
