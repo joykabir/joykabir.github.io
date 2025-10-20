@@ -96,7 +96,8 @@ rm ~/.gnupg/openpgp-revocs.d/YOUR_KEY_ID.rev
 > Heads-up: Replace YOUR_KEY_ID and your-email@example.com with your actual key ID and email address.
 
 
-
+### References:
+1. https://stackoverflow.com/a/78464745
 
 
 
