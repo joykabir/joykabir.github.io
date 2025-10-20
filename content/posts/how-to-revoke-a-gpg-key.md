@@ -1,15 +1,13 @@
 ---
 title: "How to Revoke a GPG Key"
-date = '2025-10-20T21:41:26+02:00'
+date: '2025-10-20T21:41:26+02:00'
 draft: false
 tags: ["gpg", "security", "tutorial"]
 categories: ["Security"]
 ---
 
-# How to Revoke a GPG Key
-
-I sometimes feel to have a concise guide to revoke and remove properly GPG keys. It is import to understand that we should
-revoke a key before directly deleting. Once the private key is deleted, revocation is only possible if you have a revocation certificate.
+I sometimes feel to have a concise guide that explains how to revoke and remove properly GPG keys. Once a private key is deleted, revocation is hard and is 
+only possible if you have a revocation certificate.
 
 Note: GPG 2.1+ automatically generates revocation certificates in ~/.gnupg/openpgp-revocs.d/ when creating key pairs.
 
@@ -17,12 +15,16 @@ Note: GPG 2.1+ automatically generates revocation certificates in ~/.gnupg/openp
 Choose one of the following methods:
 
 ### Method A: Create New Revocation Certificate
-Requires the key passphrase
+
+> Requires the key passphrase
 
 ```bash
 
 # Create revocation certificate
-gpg --output revoke-key.asc --gen-revoke your-email@example.com
+gpg --output revoke-key.asc --gen-revoke your-email@example.com or keyID
+
+# For example
+gpg --output revoke-key.asc --gen-revoke 5D1A6D0E5177F0B56ED60C84
 
 # Import the revocation certificate to revoke the key
 gpg --import revoke-key.asc
@@ -38,7 +40,7 @@ gpg --list-keys
 
 # 2. Edit the revocation file (remove the colon from the beginning)
 nano ~/.gnupg/openpgp-revocs.d/YOUR_KEY_ID.rev
-Edit the file: Change :-----BEGIN PGP PUBLIC KEY BLOCK-----  TO -----BEGIN PGP PUBLIC KEY BLOCK----- // Colon removed
+Edit the file: Change :-----BEGIN PGP PUBLIC KEY BLOCK-----  TO -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 # 3. Import the revocation certificate
 gpg --import ~/.gnupg/openpgp-revocs.d/YOUR_KEY_ID.rev
