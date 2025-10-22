@@ -13,7 +13,7 @@ outputs:
     - JSON
 
 params:
-  author: ZKABIR
+  author: PointNemo
   description: My personal thoughts and experiences on words
   
   homeInfoParams:
